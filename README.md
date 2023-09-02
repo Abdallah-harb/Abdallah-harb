@@ -1,19 +1,15 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
+    </div>
+ <br>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdallah-abdalrhman-95bab7175/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="40" alt="linkedin logo"  />
-  </a>
- 	<a href="mailto:abdallahabdelrahman186@gmail.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" />
- 	</a>
-  <a href="https://twitter.com/abd_fa12" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="57" height="40" alt="twitter logo"  />
-  </a>
-</div>
+
+<div align=center>
+        <a href="https://www.linkedin.com/in/abdallah-abdalrhman-95bab7175/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b5?    style=flat&logo=linkedin" alt="LinkedIn" />
+        </a>
+        <a href="mailto:abdallahabdelrahman186@gmail.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" /></a>
+  </div>
 
 ###
 
